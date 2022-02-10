@@ -10,3 +10,4 @@ Skills demonstrated after completing the project:
   * Lists
   * Links
   * Images
+* CSS Basics
