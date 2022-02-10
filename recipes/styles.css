@@ -6,3 +6,13 @@ img {
     height:auto;
     width: 400px;
 }
+
+h3 {
+    color: white;
+    background-color: black;
+    
+}
+
+.ingredients .lists {
+    text-align: center;
+}
